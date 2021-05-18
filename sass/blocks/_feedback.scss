@@ -1,0 +1,52 @@
+.feedback {
+    padding: 103px 0 30px 0;
+    &__header {
+        display: block;
+        font-size: 30px;
+        color: rgb(13, 13, 13);
+        text-transform: uppercase;
+        text-align: center;
+        align-items: center;
+        margin-bottom: 75px;
+        }
+    &__block {
+        margin-bottom: 80px;
+        min-width: 250px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        &_img {
+            display: block;
+            margin-right: 60px;
+            img {
+                display: block;
+                float: left;
+            }
+        }   
+        &_review {
+            margin-left: 60px;
+            text-align: left;
+            display: block;
+            font-size: 16px;
+            color: rgb(13, 13, 13);
+            width: 606px;
+            font-weight: 300;
+            span {
+                font-size: 14px;
+                color: rgb(100, 100, 100);
+                font-weight: 300;
+                }
+            h2 {
+                font-weight: 700;
+                font-size: 18px;
+                color: rgb(13, 13, 13);
+                } 
+            }
+       
+              
+        }
+
+        
+        }
+         
+              
